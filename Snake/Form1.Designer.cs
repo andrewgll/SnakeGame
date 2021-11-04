@@ -37,7 +37,7 @@ namespace Snake
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(11F, 24F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(932, 665);
+            this.ClientSize = new System.Drawing.Size(1776, 1508);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
